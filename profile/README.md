@@ -112,8 +112,8 @@ ai
 
 Design : 김상규
 
-Frontend : 김나연, 조은상, 염예찬, 박윤진
+Frontend : 김나현, 조은상, 염예찬, 박윤진, 정소영
 
-Backend : 김상규, 조은상, 염예찬, 방남현
+Backend : 김상규, 조은상, 염예찬, 방남현, 정소영
 
-Unity : 김동현
+Unity : 김동현, 박찬민
