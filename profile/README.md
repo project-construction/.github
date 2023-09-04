@@ -14,9 +14,11 @@
 ### PC Page
 
 ### Mobile Page
-![image](https://github.com/project-construction/Spring/assets/37824506/1ed1ff55-ad51-46b9-880a-8b5ec6327e2e)
-![image](https://github.com/project-construction/Spring/assets/37824506/c6b0a36b-11d7-4dd5-9723-38771ed826e7)
 
+**Main**|**Information**
+-----|-----
+<img src = "https://github.com/project-construction/Spring/assets/37824506/1ed1ff55-ad51-46b9-880a-8b5ec6327e2e" width="100%">|<img src = "https://github.com/project-construction/Spring/assets/37824506/c6b0a36b-11d7-4dd5-9723-38771ed826e7" width="100%">
+메인화면|출석체크 화면
 
 ## URL
 
@@ -110,7 +112,7 @@ ai
 
 Design : 김상규
 
-Frontend : 김나연, 조은상, 염예찬
+Frontend : 김나연, 조은상, 염예찬, 박윤진
 
 Backend : 김상규, 조은상, 염예찬, 방남현
 
