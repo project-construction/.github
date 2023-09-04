@@ -28,7 +28,7 @@
   - /attend/login : 토큰에 맞는 그날의 testDB 생성
   - /attend/code : Role이 MANAGER인 경우 codeDB의 오늘 날짜의 team code를 변경가능
 
-## Notice
+### Notice
   - /notice/write : json으로 title, content 값을 받아 공지사항 작성
   - /notice/update : json으로 id, title, content 값을 받아 공지사항 수정
   - /notice/{id} : 공지사항 번호로 공지사항 상세 조회
